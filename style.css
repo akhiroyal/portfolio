@@ -296,16 +296,3 @@ padding:40px 20px;
 
 color:#94a3b8;
 }
-
-.project-logo{
-width:100%;
-max-width:260px;
-display:block;
-margin:0 auto 20px;
-border-radius:20px;
-transition:.4s;
-}
-
-.project-logo:hover{
-transform:scale(1.05);
-}
